@@ -1,0 +1,241 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.modalimg {
+    width: 400px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.bg-top {
+    background-color: #4b2f87;
+}
+
+.biryani-logo {
+    width: 80px;
+    height: 80px;
+}
+
+#navItem1 {
+    color: #111211;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#navItem2 {
+    color: #111211;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#navItem3 {
+    color: #111211;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#navItem4 {
+    color: #111211;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.banner-section-bg-container {
+    background-image: url("https://img.freepik.com/free-photo/dark-geometric-background-with-copy-space_24972-1816.jpg?size=626&ext=jpg&ga=GA1.1.1851993847.1692952664&semt=ais");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.banner-caption {
+    color: #f29411;
+
+
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.custom-button {
+    color: white;
+    background-color: #4b2f87;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    font-weight: bold;
+    margin-right: 12px;
+}
+
+.paymentimg {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.wcu-card-description {
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 400;
+}
+
+.wcu-card-title {
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: 500;
+}
+
+.wcu-card-image {
+    width: 90px;
+    height: 90px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.wcu-card {
+    background-color: white;
+    text-align: center;
+    border-style: double;
+    border-width: 3px;
+    border-color: #a1bf26;
+    border-radius: 16px;
+}
+
+.wcu-section-desc {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+
+.wcu-section-head {
+    font-style: Roboto;
+    font-weight: 600;
+    font-size: 30px;
+    color: white;
+
+}
+
+.wcu-section-container {
+    background-color: #395087;
+}
+
+.custom-outline-button {
+    color: white;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: double;
+    border-width: 1px;
+    font-weight: bold;
+    border-color: #4b2f87;
+    border-radius: 8px;
+}
+
+.menu-card {
+    border-radius: 16px;
+}
+
+.menu-heading {
+    font-size: 40px;
+    font-weight: 800;
+    font-family: Calibri;
+    color: #4b2f87;
+}
+
+.card-image {
+    height: 250px;
+    border-radius: 16px;
+    border-style: dotted;
+}
+
+.menu-card-title {
+    font-size: 30px;
+    color: #4b2f87;
+    font-family: Calibri;
+    font-weight: 800;
+}
+
+.menu-item-link {
+    color: black;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.icon {
+    font-size: 35px;
+    color: #395087;
+}
+
+.followusicon {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #395087;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.tqimage {
+    height: 200px;
+    width: 200px;
+}
+
+.tqdesc {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.tqsection {
+    background-color: white;
+}
+
+.paymentimg {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.specialprice {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.specialdesc {
+    color: black;
+    font-weight: 600;
+}
+
+.specialimage {
+    widht: 250px;
+    height: 200px;
+    border-radius: 15px;
+    border-style: dotted;
+}
+
+.specialheading {
+    color: #395087;
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: bold;
+}
